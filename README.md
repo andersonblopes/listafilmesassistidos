@@ -1,4 +1,4 @@
-# Começando com o AngularJS
+# Começando com AngularJS
 
 No mundo front-end, o AngularJS é um dos frameworks mais utilizados no momento... 
 
